@@ -12,7 +12,8 @@ Note: This will only appear in the speaker notes window.
 
 ## External 1.2
 
-Content 1.2
+<iframe src="https://h5p.org/h5p/embed/617" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
 
 ---
 
