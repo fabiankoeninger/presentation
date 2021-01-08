@@ -4,27 +4,35 @@
 
 ## External 1.1
 
-Das ist ein anderes Beispiel.
+Is the fragment syntax
+
+Hit the next arrow...
+
+... to step through ...
+
+<span>... a<!-- .element: class="fragment" data-fragment-index="1" --></span> 
+<span>fragmented<!-- .element: class="fragment fade-up" data-fragment-index="3" --></span> 
+<span>slide.<!-- .element: class="fragment highlight-red" data-fragment-index="2" --></span>
 
 Note: This will only appear in the speaker notes window.
 
-----
+---
 
-## External 1.2
-
-Content 1.2
+<section data-background-iframe="https://padlet.com/fabiankoeninger/adk8waz2ij6uiwxg"
+          data-background-interactive>
+</section>
 
 ---
 
 ## External 2
 
-Content 2.1
+<video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
 ---
 
-## External 3.1
-
-Content 3.1
+<section data-background-iframe="https://hakim.se"
+          data-background-interactive>
+</section>
 
 ----
 
