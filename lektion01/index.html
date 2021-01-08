@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js - Markdown Example</title>
+		<title>Lektion 01</title>
 
 		<link rel="stylesheet" href="../dist/reveal.css">
 		<link rel="stylesheet" href="../dist/theme/white.css" id="theme">
@@ -35,7 +35,19 @@
 				controls: true,
 				progress: true,
 				history: true,
-				center: true,
+                center: true,
+                multiplex: {
+                // Example values. To generate your own, see the socket.io server instructions.
+                secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
+                id: '8b1a9093570ee411', // Obtained from socket.io server
+                url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
+                },
+
+                // Don't forget to add the dependencies
+                dependencies: [
+                    { src: 'https://reveal-multiplex.glitch.me/socket.io/socket.io.js', async: true },
+                    { src: 'https://reveal-multiplex.glitch.me/client.js', async: true },
+                ],
 
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
