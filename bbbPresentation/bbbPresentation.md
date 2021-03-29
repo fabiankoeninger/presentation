@@ -1,4 +1,6 @@
 ---
+robots: noindex, nofollow
+breaks: true
 slideOptions:
   transition: slide
   theme: simple
