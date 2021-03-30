@@ -72,7 +72,7 @@ slideOptions:
 ![Informationen aus der Teilnehmerliste](https://i.imgur.com/UnBEIhS.png)
 
 Rundes Icon = Teilnehmerin / Teilnehmer
-Eckiges Icon = Moderatorin / Moderator
+<br>Eckiges Icon = Moderatorin / Moderator
 
 ---
 
@@ -134,15 +134,11 @@ Sobald ein Teilnehmer seine Hand hebt, wird der Moderator benachrichtigt.
 
 ![Audio & Video aktivieren](https://i.imgur.com/AAVJkE0.png)
 
-::: info
-
 **Hinweis**: Sofern man sich nur als Zuhörer eingewählt hat und sich entscheidet, doch das Mikrofon zu nutzen, muss in diesem Fall, das Audio einmal komplett beendet und wieder gestartet werden.  
-
-:::
 
 ----
 
-3. Kamera de-/aktivieren
+1. Kamera de-/aktivieren
 
 ![Audio & Video aktivieren](https://i.imgur.com/AAVJkE0.png)
 
@@ -185,9 +181,7 @@ Einzelne Folien können mittels - und + vergrößert und verkleinert werden.
 
 ----
 
-:::info
 Die Auswahl "Vollbildmodus" hat nur für den Präsentator selbst eine Auswirkung und verändert die Darstellung für Teilnehmenden nicht.
-:::
 
 ---
 
@@ -277,9 +271,7 @@ Den Teilnehmenden wird das Ergebnis rechts unten angezeigt.
 
 ### Schnellumfrage
 
-:::info
 Sofern auf der Folie bereits eine Umfrage in Form von einer Liste (1/2/3/... oder a/b/c) angelegt ist, wird es automatisch erkannt und eine Schnellumfrage kann ausgewählt werden.
-:::
 
 ----
 
@@ -310,13 +302,9 @@ Wählen Sie eine Option.
 
 ----
 
-:::warning
 Sofern ein externes Video geteilt werden soll, muss dieses über einen öffentlichen Link abgerufen werden können. 
-:::
 
-:::info
 Das Video kann von dem Präsentator gesteuert werden.
-:::
 
 ---
 
@@ -371,9 +359,7 @@ Es empfiehlt sich nur so viel wie nötig zu teilen. Falls ein Programm präsenti
 
 - Mikrofon und Kamera mit ausreichend Zeit im Voraus testen
 
-:::info
 Besonders beim Mikrofon sollte ein externes Mikrofon verwendet werden, da die Qualität von eingebauten Mikrofonen teilweise sehr unbefriedigend ist.
-:::
 
 ----
 
