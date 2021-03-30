@@ -1,11 +1,3 @@
----
-robots: noindex, nofollow
-breaks: true
-slideOptions:
-  transition: slide
-  theme: simple
----
-
 # Einführung in Bigbluebutton
 
 ![Logo von Bigbluebutton](https://upload.wikimedia.org/wikipedia/en/c/cd/BigBlueButton_logo.png)
